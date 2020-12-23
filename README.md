@@ -32,17 +32,12 @@ If you have any issues viewing tasks2020.ipynb in github you can use Jupyter NBV
 ---
 ### 3. Project
 
-__Problem statement__: For this project you must create a data set by simulating a real-world phenomenon ofyour choosing.  You may pick any phenomenon you wish – you might pick one that isof interest to you in your personal or professional life.  Then, rather than collect datarelated to the phenomenon, you should model and synthesise such data using Python.We suggest you use thenumpy.randompackage for this purpose.Specifically, in this project you should:
+__Problem statement__: In this project we had to perform and explain simple linear regression using Python on the powerproduction dataset available on Moodle.
 
-- Choose a real-world phenomenon that can be measured and for which you could collect at least one-hundred data points across at least four different variables.
+The goal is to accurately predict wind turbine power output from wind speed values using the data set as a basis. Our submission had be in the form of a git repository containing, at a minimum, the following items:
 
-- Investigate  the  types  of  variables  involved,  their  likely  distributions,  and  their relationships with each other.
+- Jupyter notebook that performs simple linear regression on the data set.
+- In that notebook, an explanation of your regression and an analysis of its accuracy.
+- Standard items in a git repository such as a README.
 
-- Synthesise/simulate a data set as closely matching their properties as possible.
-
-- Detail your research and implement the simulation in a Jupyter notebook – the data set itself can simply be displayed in an output cell within the notebook.
-
-
-Note that this project is about simulation – you must synthesise a data set.  Some students may already have some real-world data sets in their own files.  It is okay to base your synthesised data set on these should you wish (please reference it if you do),but the main task in this project is to create a synthesised data set.
-
-The project is divided into nine sections outlined below.
+To enhance our submission, we had to consider comparing simple linear regression to other types of regression on this data set. Rest assured, all the above concepts will be explored in lecture videos and other materials in the coming semester.
