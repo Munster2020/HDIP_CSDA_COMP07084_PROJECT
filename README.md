@@ -5,16 +5,19 @@ This module was an introduction to the fundamentals of data analysis, including 
 
 ### 1. Repository Structure
 1. Readme:
-[README.md](https://github.com/Munster2020/HDIP_CSDA_COMP08050_PROJECT/blob/main/README.md)
+[README.md](https://github.com/Munster2020/HDIP_CSDA_COMP07084_PROJECT/blob/main/README.md)
 
 2. Jupyter Notebook:
-[project2020.ipynb](https://github.com/Munster2020/HDIP_CSDA_COMP08050_PROJECT/blob/main/project2020.ipynb)
+[project2020.ipynb](https://github.com/Munster2020/HDIP_CSDA_COMP07084_PROJECT/blob/main/project2020.ipynb)
 
-3. Excel version of simulated data:
-[simulated_data.xlsx](https://github.com/Munster2020/HDIP_CSDA_COMP08050_PROJECT/blob/main/simulated_data.xlsx)
+3. PDF of Jupyter Notebook:
+[project2020.pdf](https://github.com/Munster2020/HDIP_CSDA_COMP07084_PROJECT/blob/main/project2020.pdf)
 
 4. Images Folder
-[images](https://github.com/Munster2020//HDIP_CSDA_COMP08050_PROJECT/tree/main/images)
+[images](https://github.com/Munster2020/HDIP_CSDA_COMP07084_PROJECT/tree/main/images)
+
+4. Power Production CSV
+[powerproduction.csv](https://github.com/Munster2020/HDIP_CSDA_COMP07084_PROJECT/blob/main/powerproduction.csv)
 
 If you have any issues viewing tasks2020.ipynb in github you can use Jupyter NBViewer which is a web application behind The Jupyter Notebook Viewer at https://nbviewer.jupyter.org/
 
