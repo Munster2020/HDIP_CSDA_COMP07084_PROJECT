@@ -40,4 +40,26 @@ The goal is to accurately predict wind turbine power output from wind speed valu
 - In that notebook, an explanation of your regression and an analysis of its accuracy.
 - Standard items in a git repository such as a README.
 
-To enhance our submission, we had to consider comparing simple linear regression to other types of regression on this data set. Rest assured, all the above concepts will be explored in lecture videos and other materials in the coming semester.
+To enhance our submission, we had to consider comparing simple linear regression to other types of regression on this data set.
+
+The project is divided into nine sections outlined below.
+
+__1.0__ Wind Energy
+
+__2.0__ Simple Linear Regression
+
+__3.0__ Importing the required libraries
+
+__4.0__ Creating dataframe
+
+__5.0__ Data exploration
+
+__6.0__ Summary statistics
+
+__7.0__ Simple linear regression algorithm
+
+__8.0__ Polynomial regression algorithm
+
+__9.0__ References
+
+---
