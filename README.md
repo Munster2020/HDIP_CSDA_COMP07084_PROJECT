@@ -63,3 +63,43 @@ __8.0__ Polynomial regression algorithm
 __9.0__ References
 
 ---
+
+__1.0 Wind Energy__: This section of my project provides an outline of energy demand in the world and how wind energy contributes to this. I also provide some fact and figures on the contribution of wind energy both in Ireland and the wider world along with criteria applied in the location of wind energy turbines. 
+
+__Learnings__: When researching wind energy and wind turbines for the project I gained a new appreciation for energy demand and the factors influencing the location of wind turbines. I also learned to download and add additional functionality in Jupyter Notebooks, including using the add-ons "Autopep8", "spellchecker" and "Table of Contents(2)". Autopep8 is excellent for formatting your code correctly, while spellchecker comes in handy in correcting those pesky spelling mistakes.
+
+__Topics__: research, wind turbines, energy supply and demand.
+
+---
+
+__2.0 Simple Linear Regression__: This section covers linear regression and the equation used to perform it.
+
+__Learnings__: linear regression, Scikit-Learn.
+
+__Topics__: regression, linear regression.
+
+---
+
+__3.0 Importing the required libraries__: This section covers importing the libraries used for this project. I used Pandas for importing and manipulating the dataset. NumPy for generating arrays and Matplotlib and Seaborn for data visualisation. I also used Scikit-Learn for train_test_split() method, and regressions.
+
+__Learnings__: I learned two things in this section. I got an understanding of Scikit-Learn and a way of making plots clearer by using the magic command %config InlineBackend.figure_format = ‘retina’.
+
+__Topics__: NumPy, Pandas, Scikit-Learn, retina display magic command.
+
+---
+
+__4.0 Creating dataframe__: This is where I read in the data from the powerproduction.csv and create a dataframe. 
+
+__Learnings__: Dataframe creation.
+
+__Topics__: Pandas, dataframes.
+
+---
+
+__5.0 Data exploration__: 
+
+__Learnings__: 
+
+__Topics__: 
+
+---
