@@ -29,9 +29,6 @@ If you have any issues viewing tasks2020.ipynb in github you can use Jupyter NBV
 ![logo](https://github.com/Munster2020/HDIP_CSDA_COMP07084_PROJECT/blob/main/images/cmdr.png "Cmder")
 ![Cmdr](https://cmder.net/) provides you with an alternative to the Windows default command prompt utility through a more capable console emulator that also comes packing a good-looking graphical user interface. (Source:downloads.com)
 
-![logo](https://github.com/Munster2020/HDIP_CSDA_COMP07084_PROJECT/blob/main/images/scikit.png "Scikit")
-![Scikit](https://scikit-learn.org/stable/index.html) (formerly scikits.learn) is a free software machine learning library for the Python programming language. (Source:downloads.com)
-
 ---
 ### 3. Project
 
@@ -108,5 +105,21 @@ __Topics__: Research, wind turbines, Pandas methods.
 ---
 
 __6.0 Summary statistics__: This section creates some summary statistics and plots the data to see what it looks like. From this visualisation it was clear that fitting a linear regression to it would be difficult and that an alternative type would need to be found.
+
+---
+
+__7.0 Simple linear regression algorithm__: Section 7 provides an explanation of the linear regression I carried out on the dataset. Starting from the data preparation, training my algorithm, making predictions and then evaluating it. 
+
+__Learnings__: Unlike polynomial regression, I found linear regression easier to understand and implement. However getting a grasp of evaluating the outcome was a struggle. 
+
+__Topics__: Scikit-Learn, train_test_split method(), LinearRegression, polyfit, intercept, slope, mean absolute error, mean squared error, root mean squared error.
+
+---
+
+__8.0 Simple linear regression algorithm__: Section 8 provides an explanation of the polynomial regression I carried out on the dataset. Starting from the data preparation, training my algorithm, making predictions and then evaluating it. 
+
+__Learnings__: As stated earlier I found polynomial regression harder to understand and implement. 
+
+__Topics__: Scikit-Learn, train_test_split method(), Polynomial, Polynomial Features, LinearRegression, 
 
 ---
