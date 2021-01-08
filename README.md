@@ -99,10 +99,10 @@ __Topics__: Pandas, dataframes.
 
 ---
 
-__5.0 Data exploration__: 
+__5.0 Data exploration__: In this section I explore the powerproduction.csv dataset. There are only two columns in the dataset ```speed``` and ```output```. Both are floats and there is 500 records in the dataset with no null values. I also provide some initial observations which are aligned with the research I carried out on wind turbine technology.
 
-__Learnings__: 
+__Learnings__: I suppose what I took away from this section was the importance of taking your time and carrying out detailed research on the topic the data relates to in order to better understand the data and it's attributes.
 
-__Topics__: 
+__Topics__: Research, wind turbines, Pandas methods.
 
 ---
