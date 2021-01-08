@@ -29,6 +29,9 @@ If you have any issues viewing tasks2020.ipynb in github you can use Jupyter NBV
 ![logo](https://github.com/Munster2020/HDIP_CSDA_COMP07084_PROJECT/blob/main/images/cmdr.png "Cmder")
 ![Cmdr](https://cmder.net/) provides you with an alternative to the Windows default command prompt utility through a more capable console emulator that also comes packing a good-looking graphical user interface. (Source:downloads.com)
 
+![logo](https://github.com/Munster2020/HDIP_CSDA_COMP07084_PROJECT/blob/main/images/scikit.png "Scikit")
+![Scikit](https://scikit-learn.org/stable/index.html) (formerly scikits.learn) is a free software machine learning library for the Python programming language. (Source:downloads.com)
+
 ---
 ### 3. Project
 
