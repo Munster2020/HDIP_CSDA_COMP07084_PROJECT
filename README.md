@@ -106,3 +106,7 @@ __Learnings__: I suppose what I took away from this section was the importance o
 __Topics__: Research, wind turbines, Pandas methods.
 
 ---
+
+__6.0 Summary statistics__: This section creates some summary statistics and plots the data to see what it looks like. From this visualisation it was clear that fitting a linear regression to it would be difficult and that an alternative type would need to be found.
+
+---
